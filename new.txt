@@ -1,2 +1,0 @@
-hello,  welcome to supreme hexagon repo
-here we practice git commands.
